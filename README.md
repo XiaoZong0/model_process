@@ -6,3 +6,7 @@
     input_path: 输入音频文件路径
     output_prefix: 输出文件前缀
     target_duration: 目标片段时长（秒）
+## image_rename.py
+将图片按照数字命名进行重命名
+## crop_image.py
+将人脸照片以人脸为中心裁剪成正方形
